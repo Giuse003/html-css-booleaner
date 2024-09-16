@@ -1,5 +1,6 @@
-body {
+* {
     margin: 0;
+    padding: 0;
 }
 
 .container {
@@ -14,4 +15,21 @@ header {
 
 img {
     height: 45px;
+}
+
+main {
+    padding-top: 50px;
+    padding-bottom: 45px;
+}
+
+.author-date {
+    color: gray;
+}
+
+.author-date .author {
+    color: #4ea0ff;
+}
+
+.author-date .date {
+    font-size: 14px;
 }
