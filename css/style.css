@@ -13,13 +13,17 @@ header {
     padding-bottom: 40px;
 }
 
-img {
+header img.logo {
     height: 45px;
 }
 
 main {
     padding-top: 50px;
     padding-bottom: 45px;
+}
+
+hgroup {
+    margin-bottom: 25px;
 }
 
 .author-date {
@@ -31,5 +35,9 @@ main {
 }
 
 .author-date .date {
+    font-size: 14px;
+}
+
+.article-image figcaption {
     font-size: 14px;
 }
