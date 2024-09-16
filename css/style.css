@@ -67,3 +67,10 @@ main {
 #article-table-info tbody tr.add {
     background-color: #dfe5f2;
 }
+
+footer {
+    background-color: #313a6b;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
